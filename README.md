@@ -160,9 +160,7 @@ If we compare before/after versions:
 
 ----
 
-After these steps, I can see that works! now I will define a function in a python file because I used jupyter notebook for that I can see the result immediately. Also in next, I will implement Transfer Learning Models. For that Pycharm is my favorite IDE.
-
-The function is here: https://github.com/ierolsen/Detect-Diabetic-Retinopathy/blob/main/src/image_preprocessing.py
+After these steps, I can see that works! now I will define a function in a python file because I used jupyter notebook for that I can see the result immediately. Also in next, I will implement Transfer Learning Models. 
 
 After applied function: 
 
